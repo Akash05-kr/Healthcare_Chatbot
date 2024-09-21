@@ -76,6 +76,18 @@ Ensure you have Python installed on your machine. You can download it from [here
 4. **Consultation Suggestions**: If the symptoms match a particular disease, the bot will suggest you to consult a healthcare professional.
 
 ---
+## Concepts used to train our model
+
+- **Logistic Regression**
+- **K-Nearest Neighbors (KNN)**
+- **Receive Information**
+- **Support Vector Classification (SVC)**
+- **Decision Trees**
+- **Gaussian Naive Bayes (GNB)**
+- **Random Forest**
+- **XGBoost**
+---
+
 
 ## Code Overview
 
@@ -113,6 +125,7 @@ Ensure you have Python installed on your machine. You can download it from [here
 - **Gaurav kumar**[23bcs031]  - Developed the core logic. 
 - **Akash kumar chaurasiya**[23bcs010]  - NLP integration. 
 - **Babul kumar**[23bcs023]  - GUI interface.
+- **Pranav kumar**[23bcs067]  - Data collector. 
 - **Dipenshu Deep Bhat**[21bcs034] - Additional support and guidance in the project development.
 
 ---
@@ -124,6 +137,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ---
 
 ## Screenshots
+![Chatbot Interface](img.jpeg)
 
 
 
