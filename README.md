@@ -125,7 +125,7 @@ Ensure you have Python installed on your machine. You can download it from [here
 - **Gaurav kumar**[23bcs031] (Team Leader) - Developed the core logic. 
 - **Akash kumar chaurasiya**[23bcs010]  - NLP integration. 
 - **Babul kumar**[23bcs023]  - GUI interface.
-- **Pranav kumar**[23bcs067]  - Data collector. 
+- **Pranav Praveen**[23bcs067]  - Data collector. 
 - **Dipenshu Deep Bhat**[21bcs034] (Mentor) - Additional support and guidance in the project development.
 
 ---
@@ -140,8 +140,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ![Chatbot Interface](img.jpeg)
 
 ## Dataset Visualization
-![Chatbot Interface](img.jpeg)
-![Chatbot Interface](img.jpeg)
-![Chatbot Interface](img.jpeg)
-![Chatbot Interface](img.jpeg)
+![Chatbot Interface](data.jpg)
+![Chatbot Interface](disease_freq.jpg)
+![Chatbot Interface](cheat_pain.jpg)
+![Chatbot Interface]( data_vis.jpg)
 
