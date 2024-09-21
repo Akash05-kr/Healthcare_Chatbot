@@ -122,11 +122,11 @@ Ensure you have Python installed on your machine. You can download it from [here
 
 ## Contributors
 
-- **Gaurav kumar**[23bcs031]  - Developed the core logic. 
+- **Gaurav kumar**[23bcs031](Team Leader) - Developed the core logic. 
 - **Akash kumar chaurasiya**[23bcs010]  - NLP integration. 
 - **Babul kumar**[23bcs023]  - GUI interface.
 - **Pranav kumar**[23bcs067]  - Data collector. 
-- **Dipenshu Deep Bhat**[21bcs034] - Additional support and guidance in the project development.
+- **Dipenshu Deep Bhat**[21bcs034](Mentor) - Additional support and guidance in the project development.
 
 ---
 
