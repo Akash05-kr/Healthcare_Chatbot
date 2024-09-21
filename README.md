@@ -139,6 +139,9 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Screenshots
 ![Chatbot Interface](img.jpeg)
 
-
-
+## Dataset Visualization
+![Chatbot Interface](img.jpeg)
+![Chatbot Interface](img.jpeg)
+![Chatbot Interface](img.jpeg)
+![Chatbot Interface](img.jpeg)
 
